@@ -1,0 +1,113 @@
+.row{
+  min-height: 25vh;
+}
+.bg-blk{
+  background-color: rgba(0, 0, 0, 0.555);
+  border-radius: 8px;
+}
+.navbar{
+  position: fixed;
+    width: 100%;
+    top: 0;
+}
+.row-2{
+  min-height: 80vh;
+}
+.img-1{
+  background-image: url(https://www.essentiallysports.com/wp-content/uploads/tumblr_onlm3bN5UU1sogsklo1_1280.jpg);
+}
+
+.font-white{
+  color: white;
+}
+
+.font-black{
+  color: black;
+}
+.bold{
+  font-size: larger;
+}
+
+.form-1{
+padding-top: 10vh;
+}
+
+.bg-y{
+  background-color: rgb(204, 159, 9);
+}
+
+.bg-r{
+  background-color: rgba(146, 6, 6, 0.925);
+}
+
+.brother{
+padding-top: 60px;
+margin-bottom: 150px;
+}
+
+.bg-black{
+  background-color: black;
+}
+
+.pic-2{
+  padding: 10px;
+}
+
+
+.hulkamania{
+  background-color: rgba(3, 70, 3, 0.555);
+  padding: 5%;
+  border-radius: 8px;
+}
+
+.history{
+  font-weight: lighter;
+}
+.bg-b{
+  background-color: rgba(0, 0, 0, 0.315);
+}
+
+.overlap{
+border-radius: 8px;
+}
+
+
+
+
+.sm-card{
+  margin-top: 30px;
+}
+
+@media (max-width: 767px) {
+  .hidden-mobile {
+    display: none;
+  }
+}
+
+.font-g{
+  color: rgb(85, 84, 84);
+}
+
+.gf{
+  font-family:'Zen Kaku Gothic Antique', sans-serif;;
+}
+
+/* .button-all 
+} */
+
+@media screen and (min-width:768px ) {
+  .lg-card {
+    margin-bottom: -70px;
+    border-radius: 8px;
+  }
+}
+
+.tp{
+  padding-top: 10px;
+}
+
+
+.btn-all :hover
+{
+ background-color:rgb(250, 252, 250);
+}
